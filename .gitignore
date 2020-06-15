@@ -372,3 +372,6 @@ DerivedData/
 .nfs*
 
 # End of https://www.gitignore.io/api/node,react,reactnative
+
+
+*.sqlite
